@@ -6,8 +6,11 @@ deployed live on Render.
 
 ## Developer Info
 **Name:** Palak Narang
+
 **Registration Number:** 23BCE11819
+
 **Application Number:** IN26011657
+
 **Batch Number:** 1A
 
 ## Problem Statement
