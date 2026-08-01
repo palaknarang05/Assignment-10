@@ -75,14 +75,9 @@ Response:
   production WSGI server (see `Procfile`).
 
 ## Render Deployment
-🔗 **Live URL:** _add your Render deployment URL here after deploying_
+🔗 **Live URL:** _[](https://assignment-10-se7o.onrender.com)_
 
-To deploy:
-1. Push this repo to a public GitHub repository.
-2. On [Render](https://render.com), create a new **Web Service**, connect
-   the repo, set build command `pip install -r requirements.txt` and start
-   command `gunicorn app:app`.
-3. Once live, copy the Render URL into this README and the submission form.
+
 
 ## Conclusion
 The Random Forest model achieved approximately 80% accuracy in predicting
