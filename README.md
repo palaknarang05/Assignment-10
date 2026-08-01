@@ -75,7 +75,7 @@ Response:
   production WSGI server (see `Procfile`).
 
 ## Render Deployment
-🔗 **Live URL:** _[](https://assignment-10-se7o.onrender.com)_
+🔗 **Live URL:** (https://assignment-10-se7o.onrender.com)
 
 
 
